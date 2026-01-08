@@ -35,8 +35,8 @@ translating data into actionable business insights.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *(add later)*
-- Email: *(optional)*
+- LinkedIn: 
+- Email: kambojrahul601@gmail.com
 
 ---
 
